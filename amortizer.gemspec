@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Arpitha George"]
   spec.email         = ["arpitha.george@samyukti.com"]
   spec.summary       = %q{A simple gem to calculate amortizing loan payments}
-  spec.description   = %q{A simple gem to calculate amortizing loan payments, as part of training at samyukti.}
-  spec.homepage      = "https://github.com/samyukti/amortizer"
+  spec.description   = %q{A simple gem to calculate amortizing loan payments, as part of training at samyukti}
+  spec.homepage      = "https://github.com/arpithageorge/amortizer"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")

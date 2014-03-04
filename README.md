@@ -1,6 +1,6 @@
 # Amortizer
 
-A simple gem to calculate amortizing loan payments, as part of tarining at samyukti
+A simple gem to calculate amortizing loan payments, as part of tarining at Samyukti
 
 ## Installation
 
