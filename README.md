@@ -1,6 +1,6 @@
 # Amortizer
 
-TODO: Write a gem description
+A simple gem to calculate amortizing loan payments, as part of tarining at samyukti
 
 ## Installation
 
@@ -18,7 +18,10 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+    require 'amortizer'
+
+    loan = Amortizer::Loan.new(100000, 10, 100)
+    loan.payment
 
 ## Contributing
 
